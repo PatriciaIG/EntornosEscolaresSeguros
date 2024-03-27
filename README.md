@@ -1,20 +1,40 @@
 <a href="https://www.onsv.gob.pe/"><img align="right" height="100" src="index-images/logo-onsv.png" float="right" link> </a>
-
+<br>
 
 ## Entornos Escolares Seguros Perú: Siniestralidad vial y proximidad a locales educativos
 
 ### [Documento de Trabajo 002](https://www.onsv.gob.pe:5000/siniestralidad-vial-e-infraestructura-segura-en-entornos-escolares/) del Observatorio Nacional de Seguridad Vial (ONSV)
 
-<a href="https://www.gob.pe/institucion/mtc/campa%C3%B1as/48229-entornos-escolares-seguros"><img align="right" height="600" src="index-images/EES_PI.jpg" float="center" link> </a>
+<a href="https://www.gob.pe/institucion/mtc/campa%C3%B1as/48229-entornos-escolares-seguros"><img align="center" height="600" src="index-images/EES_PI.jpg" float="center" link> </a>
 
 ## Resumen
-En Perú, se han registrado alrededor de 29 mil siniestros de tránsito fatales desde el año 2010 al 2021. Cada uno de estos siniestros está vinculando en cierta medida a las condiciones del entorno en el que ocurrió, dado que estas pueden propiciar o agravar el siniestro. En ese sentido, es importante que puedan tomarse acciones que permitan reducir significativamente las muertes y lesiones graves como consecuencia de la alta siniestralidad vial.
+Desde el MTC, la Dirección de Seguridad Vial promovió en el año 2022 el programa “Entornos Escolares Seguros”, con el objetivo de mejorar la seguridad
+vial alrededor de locales educativos en el marco del Decreto Supremo
+N° 025-2021-MTC. Como parte de este proyecto se realizó una intervención
+piloto en la I.E. María Negrón Ugarte de Trujillo que benefició a 1200 alumnas.
+Esta iniciativa representa un hito de trabajo en articulación con Transportes
+Metropolitanos de Trujillo, la Municipalidad Provincial de Trujillo y el apoyo de la
+empresa 3M.
+<br>
+A partir de esta experiencia, este tipo de proyectos se ha consolidado como un
+servicio dentro de la Política Nacional Multisectorial de Seguridad Vial 2023 –
+2030 (PNMSV), lo cual ha permitido iniciar su escalabilidad a nivel nacional en el
+presente año. En específico, este servicio S 4.1.3. Asistencia para el diseño de
+proyectos de Entornos Escolares Seguros, fiable para gobiernos locales está
+alineado con el Objetivo Prioritario 4 de la PNMSV de Lograr las velocidades
+seguras para la protección de las y los usuarios viales.
+<br>
+Para planificar de manera más eficiente los
+mecanismos de asistencia técnica, se identificaron aquellos distritos que
+contaban con al menos 3 zonas escolares con siniestros fatales. De este modo, se
+seleccionaron 73 distritos a nivel nacional en los que la implementación de este
+tipo de acciones es urgente, como muestra el siguiente mapa. Sin perjuicio de ello, la
+Dirección de Seguridad Vial brinda asistencia técnica a todas las entidades
+administradoras de las vías, de modo que las acciones de seguridad vial no tengan
+únicamente un enfoque reactivo a la ocurrencia de siniestros de tránsito, sino
+también proactivo en cumplimiento de los estándares nacional e internacionales.
 
-El presente estudio es realizado para la Dirección de Seguridad Vial del Ministerio de Transportes y Comunicaciones del Perú y pretende establecer un algoritmo sistematizado y reproducible para la identificación y priorización de clústeres o tramos de alta densidad de siniestros viales. La técnica empleada se basa en el análisis geográfico de algoritmos de Machine Learning como el Agrupamiento Espacial Basado en Densidad de Aplicaciones con Ruido (DBSCAN en inglés).
 
-Como resultado de esta metodología desarrollada por el ONSV, se identificaron clústeres o tramos de alta densidad de siniestros fatales en la Red Vial Nacional, administrados por concesionarias y entidades estatales . A partir de ello, se impulsa la inspección especializada y particular de cada clúster o tramo como base para el desarrollo de propuestas de mitigación de riesgos viales en el marco de una gestión pública basada en evidencias.
-
-En específico, esta exploración geográfica desarrollada en el presente estudio pretende dar respuesta a la pregunta siguiente:
 
 > ***¿Cuáles son los tramos viales en los que los administradores de la vía pueden implementar medidas que tengan alto impacto en la reducción de la siniestralidad vial?***
 
