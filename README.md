@@ -1,11 +1,11 @@
-<a href="https://www.onsv.gob.pe/"><img align="right" height="100" src="index_images/logo-onsv.png" float="right" link> </a>
+<a href="https://www.onsv.gob.pe/"><img align="right" height="100" src="index-images/logo-onsv.png" float="right" link> </a>
 
 
 ## Entornos Escolares Seguros Perú: Siniestralidad vial y proximidad a locales educativos
 
 ### [Documento de Trabajo 002](https://www.onsv.gob.pe:5000/siniestralidad-vial-e-infraestructura-segura-en-entornos-escolares/) del Observatorio Nacional de Seguridad Vial (ONSV)
 
-<a href="https://www.gob.pe/institucion/mtc/campa%C3%B1as/48229-entornos-escolares-seguros"><img align="right" height="100" src="index_images/EES_PI.jpg" float="right" link> </a>
+<a href="https://www.gob.pe/institucion/mtc/campa%C3%B1as/48229-entornos-escolares-seguros"><img align="right" height="100" src="index-images/EES_PI.jpg" float="right" link> </a>
 
 ## Resumen
 En Perú, se han registrado alrededor de 29 mil siniestros de tránsito fatales desde el año 2010 al 2021. Cada uno de estos siniestros está vinculando en cierta medida a las condiciones del entorno en el que ocurrió, dado que estas pueden propiciar o agravar el siniestro. En ese sentido, es importante que puedan tomarse acciones que permitan reducir significativamente las muertes y lesiones graves como consecuencia de la alta siniestralidad vial.
