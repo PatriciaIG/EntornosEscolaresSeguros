@@ -1,4 +1,4 @@
-"IDDIST","DISTRITO","Código de Local Educativo","Nombre de Local Educativo","Gestión","Número de Estudiantes","Número de Docentes","Siniestros Fatales Registrados","Longitud","Latitud","Priorizado (preliminar)"
+"IDDIST","DISTRITO","Código de Local Educativo","Nombre de Local Educativo","Gestión","Número de Estudiantes","Número de Docentes","Siniestros Fatales Registrados","Longitud","Latitud","Local Educativo Priorizado (preliminar)"
 "110111","SANTIAGO","212375","22677","Pública de gestión directa",28,2,"NA",-75.685222,-14.176318,"No"
 "110111","SANTIAGO","213247","07 DIVINO NIÑO JESUS","Pública de gestión directa",299,13,"NA",-75.714797,-14.187506,"No"
 "110111","SANTIAGO","213252","22346 SAN MARTIN DE PORRAS","Pública de gestión directa",1093,64,"NA",-75.713392,-14.20336,"Sí"

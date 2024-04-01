@@ -1,4 +1,4 @@
-"IDDIST","DISTRITO","Código de Local Educativo","Nombre de Local Educativo","Gestión","Número de Estudiantes","Número de Docentes","Siniestros Fatales Registrados","Longitud","Latitud","Priorizado (preliminar)"
+"IDDIST","DISTRITO","Código de Local Educativo","Nombre de Local Educativo","Gestión","Número de Estudiantes","Número de Docentes","Siniestros Fatales Registrados","Longitud","Latitud","Local Educativo Priorizado (preliminar)"
 "110501","PISCO","080704","197","Pública de gestión directa",52,2,"NA",-76.20745,-13.71616,"No"
 "110501","PISCO","218103","BANDERA DEL PERU","Pública de gestión directa",2012,98,"NA",-76.20736,-13.71081,"Sí"
 "110501","PISCO","218117","JOSE DE SAN MARTIN","Pública de gestión directa",1573,88,"NA",-76.2183,-13.7173,"Sí"

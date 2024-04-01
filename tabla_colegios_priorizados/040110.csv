@@ -1,4 +1,4 @@
-"IDDIST","DISTRITO","Código de Local Educativo","Nombre de Local Educativo","Gestión","Número de Estudiantes","Número de Docentes","Siniestros Fatales Registrados","Longitud","Latitud","Priorizado (preliminar)"
+"IDDIST","DISTRITO","Código de Local Educativo","Nombre de Local Educativo","Gestión","Número de Estudiantes","Número de Docentes","Siniestros Fatales Registrados","Longitud","Latitud","Local Educativo Priorizado (preliminar)"
 "040110","MIRAFLORES","058213","SANTA ROSA DE LIMA","Pública de gestión privada",431,30,"1",-71.51852,-16.38575,"Sí"
 "040110","MIRAFLORES","061319","TAHUANTINSUYO","Pública de gestión directa",55,3,"NA",-71.508,-16.38394,"No"
 "040110","MIRAFLORES","061814","40133 CIRIACO VERA PEREA","Pública de gestión directa",184,8,"NA",-71.5161,-16.39222,"No"

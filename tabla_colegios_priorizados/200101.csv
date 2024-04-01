@@ -1,4 +1,4 @@
-"IDDIST","DISTRITO","Código de Local Educativo","Nombre de Local Educativo","Gestión","Número de Estudiantes","Número de Docentes","Siniestros Fatales Registrados","Longitud","Latitud","Priorizado (preliminar)"
+"IDDIST","DISTRITO","Código de Local Educativo","Nombre de Local Educativo","Gestión","Número de Estudiantes","Número de Docentes","Siniestros Fatales Registrados","Longitud","Latitud","Local Educativo Priorizado (preliminar)"
 "200101","PIURA","293753","JUAN PABLO II","Privada",12,1,"NA",-80.64227,-5.20007,"No"
 "200101","PIURA","409942","001 MARIA CONCEPCION RAMOS CAMPOS","Pública de gestión directa",314,12,"NA",-80.63386,-5.19929,"Sí"
 "200101","PIURA","409956","002","Pública de gestión directa",283,13,"NA",-80.63822,-5.18936,"No"
